@@ -1,3 +1,7 @@
+== Freely (not yet) 0.0001
+
+This app will be used to help folks freecycle with their friends. But it doesn't exist yet.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
